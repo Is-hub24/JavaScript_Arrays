@@ -1,3 +1,4 @@
+// .slice
 
 const alunos = ["Ana Beatriz", "Carlos Eduardo", "Mariana Silva", "João Pedro", "Larissa Rocha",
     "Felipe Souza", "Isabela Martins", "Lucas Gabriel", "Camila Oliveira", "Rafael Lima",
